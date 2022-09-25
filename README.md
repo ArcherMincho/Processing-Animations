@@ -1,6 +1,6 @@
 # Interactive Animations
 
-Tech: Processing
+Tech: Processing, JAVA
 
 About how to play the animation that I wanna show, there are a few easy tips for you.
 
