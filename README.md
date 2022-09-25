@@ -1,4 +1,6 @@
-# Interactive Animations Based on Processing Programming
+# Interactive Animations
+
+Tech: Processing
 
 About how to play the animation that I wanna show, there are a few easy tips for you.
 
